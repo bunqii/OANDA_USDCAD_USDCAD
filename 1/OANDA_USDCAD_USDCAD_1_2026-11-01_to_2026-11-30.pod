@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_USDCAD_USDCAD_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_USDCAD_USDCAD_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 4823,
+  "row_count": 6322,
   "first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 1
   },
   "last_candle": {
-    "time": 1793861220,
-    "Time": "2026-11-05T06:47:00.000000000Z",
-    "open": 1.39486,
-    "high": 1.39489,
-    "low": 1.39476,
-    "close": 1.39476,
-    "volume": 45
+    "time": 1793951820,
+    "Time": "2026-11-06T07:57:00.000000000Z",
+    "open": 1.40602,
+    "high": 1.40604,
+    "low": 1.40587,
+    "close": 1.40594,
+    "volume": 71
   },
   "csv_file": "OANDA_USDCAD_USDCAD_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 4823,
+  "csv_row_count": 6322,
   "csv_first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 1
   },
   "csv_last_candle": {
-    "time": 1793861220,
-    "Time": "2026-11-05T06:47:00.000000000Z",
-    "open": 1.39486,
-    "high": 1.39489,
-    "low": 1.39476,
-    "close": 1.39476,
-    "volume": 45
+    "time": 1793951820,
+    "Time": "2026-11-06T07:57:00.000000000Z",
+    "open": 1.40602,
+    "high": 1.40604,
+    "low": 1.40587,
+    "close": 1.40594,
+    "volume": 71
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-05T06:48:38.000000000Z",
-  "generated_at": "2026-11-05T06:48:38.000000000Z",
+  "verified_at": "2026-11-06T07:58:49.000000000Z",
+  "generated_at": "2026-11-06T07:58:49.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-03T07:51:00Z",
-        "to": "2026-11-05T06:48:00Z",
+        "from": "2026-11-05T06:42:00Z",
+        "to": "2026-11-06T07:58:00Z",
         "code": 200,
         "msg": "OK"
       }
